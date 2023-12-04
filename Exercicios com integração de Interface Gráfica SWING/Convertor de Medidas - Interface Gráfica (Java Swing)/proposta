@@ -1,0 +1,5 @@
+Seguindo os passos vistos nos slides criar uma aplicação onde o usuário
+coloque o Nome em um campo da tela e o sobrenome em outro. No rodapé da tela deve
+aparecer o Nome e o sobrenome concatenado. Não devem existir botões. Conforme o
+usuário digita as informações, estas aparecem no rodapé da janela. Capture os eventos
+do teclado para isso.

@@ -1,0 +1,7 @@
+Crie uma exceção especializada e
+monitorada para as classes Gerente e Diretor. No caso da classe Gerente essa exceção
+deve ser lançada no construtor e no método set caso o array de funcionários tenha um
+tamanho menor do que 5. No caso do Diretor o array de departamentos não pode ser
+menor do que 2. Ou seja, a regra de negócios diz que um Gerente não pode ter uma
+equipe menor do que 5 pessoas e um diretor deve dirigir no mínimo 2 departamentos.
+Faça uma classe que teste essas opções e informe ao usuário essas condições.

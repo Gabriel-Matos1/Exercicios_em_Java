@@ -1,0 +1,7 @@
+Modifique o sistema acadêmico criado no item 3 da lista 4 para utilizar
+orientação a objetos com herança. Crie uma classe pessoa, coloque os atributos da
+classe aluno que dizem respeito a pessoa nessa classe e faça uma relação de herança
+entre as classes aluno e professor. Crie a classe professor (deve herdar de pessoa). No
+sistema acadêmico permita criar professores e relacionar as disciplinas ministradas. Crie
+uma classe que represente as disciplinas e faça o relacionamento com as classes Aluno
+e Professor.

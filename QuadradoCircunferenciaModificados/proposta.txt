@@ -1,0 +1,8 @@
+Altere as classes Quadrado e Circunferencia dos exercícios de aulas
+anteriores para que implementem a interface Superficie indicada abaixo. Para testar,
+atribua instâncias de Quadrado e Circunferencia para uma referência à interface e
+invoque métodos a partir dela.
+
+    public interface Superficie {
+        public double area();
+    }

@@ -1,0 +1,4 @@
+ Faça um programa que calcule o desvio padrão de um determinado número
+de amostras. O número de amostras deve ser pedido ao usuário no início do programa.
+Utilize array para armazenar as amostras. Os valores das amostras devem ser digitadas pelo
+usuário, uma a uma, como números decimais. 

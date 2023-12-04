@@ -1,0 +1,7 @@
+ 
+Modifique a classe Retangulo, para que uma exceção
+IllegalArgumentException seja lançada se os lados informados forem negativos. Adapte
+adequadamente o programa principal, para que a exceção seja capturada.
+    
+Crie uma exceção monitorada chamada LadoInvalidoException e altere o programa
+para que esta exceção seja lançada, no lugar de IllegalArgumentException.

@@ -1,0 +1,11 @@
+Crie um tratamento de exceção (com exceções monitoradas) para os seguintes casos:
+ valores de velocidade negativo ou superior a 100 km/h
+ valores de RPM negativo,
+ Valores de Marcha negativo ou superior a 24.
+    
+    a. Lance estas exceções nos métodos setVelocidade, setRPM e setMarcha
+    
+    b. Crie um construtor para a classe Bicicleta
+    
+    c. Crie uma classe UsaBicicleta que teste estes casos. Faça o tratamento qualificado    
+    das exceções nesta classe.
