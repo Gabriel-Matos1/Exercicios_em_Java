@@ -1,3 +1,4 @@
+package Figura;
 
 class C1_2 extends C implements I1 {
     int[][] atributo3;

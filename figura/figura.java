@@ -1,3 +1,4 @@
+package Figura;
 /*
  *  Implemente a estrutura de classes representada na figura a seguir, de acordo
 com as instruções abaixo:

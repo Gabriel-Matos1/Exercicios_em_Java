@@ -1,4 +1,4 @@
-package circunferencia;
+package Circunferencia;
 
 /* Crie uma classe Circunferencia, que armazene o valor do raio e
 seja capaz de informar sua área. Crie uma classe UsaCircunferencia para

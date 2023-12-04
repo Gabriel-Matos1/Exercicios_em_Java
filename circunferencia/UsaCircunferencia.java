@@ -1,4 +1,4 @@
-package circunferencia;
+package Circunferencia;
 import java.util.Scanner;
 
 /* Crie uma classe Circunferencia, que armazene o valor do raio e

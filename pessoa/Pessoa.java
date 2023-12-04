@@ -1,4 +1,4 @@
-package pessoa;
+package Pessoa;
 
 /*
  *  Escreva a estrutura de uma classe (atributos e métodos) para

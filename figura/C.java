@@ -1,3 +1,4 @@
+package Figura;
 
 class C {
     String atributo1;
